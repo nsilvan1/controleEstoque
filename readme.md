@@ -20,5 +20,4 @@ Para executar este sistema, é necessário ter o Python 3.7+ instalado. As bibli
 
 1. Clone este repositório:
    ```bash
-   git clone <URL do repositório>
-   cd <pasta do repositório>
+   git clone https://github.com/nsilvan1/controleEstoque
